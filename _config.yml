@@ -22,9 +22,9 @@ footer:
     - name: Email
       value: shanecrinion@gmail.com
       link: mailto:shanecrinion@gmail.com
-      # - name: WeChat
-      # value: YourWeChatUsername
-      #link: "#"
+    - name: WhatsApp
+      value: "+353 85 8018212" 
+      link: "#"
   follow:
     - name: Twitter
       link: http://twitter.com/shanecrinion
