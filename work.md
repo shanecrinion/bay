@@ -4,13 +4,15 @@ title: Work
 slug: /work
 items:
   - title: Bioinformatics
-    image: /assets/img/work/bioinformatics.png
-    alt: bioinf
+    image: 
+      src: /assets/img/work/bioinformatics.png
+      alt: bioinf
     description: tbc
 
   - title: Data Visualisation
-    image: /assets/img/work/dv.png
-    alt: dv
+    image:
+      src: /assets/img/work/dv.png
+      alt: dv
     description: tbc
 
   - title: Machine Learning
