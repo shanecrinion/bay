@@ -14,7 +14,7 @@ items:
     image: 
       src: /assets/img/work/research.png
       alt: research
-      description: I research the causal role of circadian rhythm in neuropsychiatric disorders. Link. 
+    description: I research the causal role of circadian rhythm in neuropsychiatric disorders. Link. 
 
   - title: Data Visualisation
     image:
@@ -33,8 +33,6 @@ items:
       src: /assets/img/work/stats.png
       alt: sand
     description: I'm currently using Mendelian Randomisation, a statistical approach which uses genetic instruments to explore the effect of risk factors on disease. Link.
-
-
 
 ---
 My resume (link tbc).
