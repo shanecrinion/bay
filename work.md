@@ -14,25 +14,25 @@ items:
     image: 
       src: /assets/img/work/research.png
       alt: research
-      description: I research. Link 
+      description: I research the causal role of circadian rhythm in neuropsychiatric disorders. Link. 
 
   - title: Data Visualisation
     image:
       src: /assets/img/work/dv.png
       alt: dv
-    description: tbc. Link.
+    description: [Link to some examples.](https://www.behance.net/gallery/93906651/dataviz).
 
   - title: Machine Learning
     image:
       src: /assets/img/work/ml.png
       alt: ml
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Link.
+    description: Recently I've been improving my ML skills by exploring activity measurements in a depression dataset and training a model to predict depression diagnosis. [Link to Kaggle profile.](https://www.kaggle.com/shanecrinion)
 
   - title: Statistics
     image:
       src: /assets/img/work/stats.png
       alt: sand
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Link.
+    description: I'm currently using Mendelian Randomisation, a statistical approach which uses genetic instruments to explore the effect of risk factors on disease. Link.
 
 
 
